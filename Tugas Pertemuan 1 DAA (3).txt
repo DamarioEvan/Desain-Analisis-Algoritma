@@ -1,0 +1,18 @@
+Menghitung total bayar dengan diskon sebanyak 25% jika belanja diatas Rp.200.000
+
+Algoritma:
+Step 1 Mendeklarasikan total,diskon,total_bayar,hasil
+Step 2 Menginput total belanjaan
+Step 3 jika total<200.000 return nilai total sebagai hasil dan stop, jika tidak. Lanjut ke step 4
+Step 4 kalikan nilai total dengan diskon, hasilnya menjadi total_bayar
+Step 5 menampilkan total_bayar
+
+Pseudecode:
+deklarasi
+var total,diskon,total_bayar,hasil
+if total<200.000
+write(total_bayar)
+else if>200.000
+total*diskon=hasil
+total-hasil=total_bayar
+write(total_bayar)
